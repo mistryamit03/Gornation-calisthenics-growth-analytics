@@ -37,7 +37,7 @@ All datasets are **mock and self-generated** to emulate GORNATION’s real-world
 - **Python (Pandas, NumPy)** – Mock data generation  
 - **Google Sheets** – Data validation and storage  
 - **Google Looker Studio** – Dashboard design and visualization  
-- **SQL Logic** – Embedded in calculated fields for KPIs  
+- **Canva** – Business Report creation   
 - **GitHub** – Documentation and version control  
 
 ---
