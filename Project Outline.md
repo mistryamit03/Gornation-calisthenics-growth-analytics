@@ -67,6 +67,17 @@ It reflects how I view data: *not as numbers, but as the story of performance, c
 
 ---
 
+## 📘 Business Report & Visual Storytelling
+
+To complement the technical work, I’ve created a **detailed business report** explaining the insights, metrics, and actionable recommendations derived from the dashboard along with a few collaged photos of my personal Calisthenics Journey. Callisthenics is more than a sport to me — it’s a lifestyle built on discipline, progress, and consistency.  To show that my passion is genuine, I’ve included a **photo collage of my personal training journey** towards the end of the report. Please do have a look at it.
+
+This report translates the data into a clear business narrative — showing how analytics can directly enhance GORNATION’s marketing efficiency, operational planning, and fulfillment reliability.
+
+📄 **View the Business Report (PDF):**  
+👉 [GORNATION Business Report – Calisthenics Growth Analytics](./Gornation - Business Report.pdf)
+
+---
+
 ## 🔗 Dashboard Link
 **View the Interactive Dashboard:**  
 👉 [Google Looker Studio – GORNATION Analytics Dashboard](https://lookerstudio.google.com/u/0/reporting/93baf21f-1db3-4d4c-956a-76f48c04a62a/page/DDEZF)
