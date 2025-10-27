@@ -1,1 +1,0 @@
-# Gornation-calisthenics-growth-analytics
