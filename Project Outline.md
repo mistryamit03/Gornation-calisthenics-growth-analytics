@@ -1,4 +1,4 @@
-# 🏋️‍♂️ GORNATION Callisthenics Growth Analytics
+# 🏋️‍♂️ GORNATION Ecommerce Brand Callisthenics Growth Analytics
 
 ## 📌 Title
 **Marketing & Fulfilment Analytics Dashboard – GORNATION Mock Project**
