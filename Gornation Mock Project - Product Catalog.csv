@@ -1,0 +1,23 @@
+Product_Category,Product_Name,Min_Price,Max_Price,WeightKG,SizeCategory,COGS_per_unit (€),Avg_Monthly_Sales,Fulfillment_Speed_Factor
+Parallettes,Wooden Parallettes,45,75,2.2,M,30,120,0.4
+Parallettes,Steel Parallettes,60,95,3.8,L,39,90,0.4
+Bandages,Wrist Wraps,15,25,0.2,S,6,500,0.25
+Bandages,Elbow Support,20,30,0.25,S,9,300,0.25
+Pull Up Bars,Doorway Pull-Up Bar,70,110,4,XL,50,60,0.4
+Pull Up Bars,Outdoor Pull-Up Bar,100,160,7,XL,78,40,0.6
+Dip Belt,Weighted Dip Belt,35,50,0.8,M,19,75,0.25
+Dip Bars,Steel Dip Bars,65,110,5,XL,48,50,0.4
+Clothing,Oversized Hoodie,55,85,0.7,M,25,250,0.25
+Clothing,Training Tank,25,40,0.25,S,10,200,0.25
+Clothing,Joggers,45,75,0.6,M,21,220,0.25
+Clothing,Performance T-Shirt,30,45,0.3,S,11,280,0.25
+Static Bar,Adjustable Static Bar,130,180,8,XL,93,35,0.6
+Workout Rings,Wooden Gymnastic Rings,30,50,1.1,M,16,150,0.4
+Resistance Bands,Set of 5 Resistance Bands,25,50,0.9,S,13,600,0.25
+Equipment Sets,Beginner Home Workout Set,110,170,6,L,81,70,0.6
+Equipment Sets,Advanced Athlete Set,150,220,9,XL,107,40,0.6
+Workout Accessories,Athlete Backpack,35,60,0.9,M,19,180,0.25
+Workout Accessories,Chalk Block,12,18,0.3,S,4,350,0.25
+Weight Vests,10kg Weighted Vest,100,140,10,XL,74,55,0.6
+Weight Vests,20kg Weighted Vest,130,170,20,XL,98,35,0.6
+Better Grip,Liquid Chalk,10,20,0.35,S,4,400,0.25
