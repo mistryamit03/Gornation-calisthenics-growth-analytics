@@ -76,7 +76,7 @@ On-time delivery rate improved from **78% to 92%** after optimising handling tim
 
 ## 📎 Reference
 This documentation supports the dashboards featured in the `docs/` folder and the Looker Studio report:
-- [Marketing & Fulfillment Dashboard (Live)](YOUR_DASHBOARD_LINK_HERE)
+- [Marketing & Fulfillment Dashboard (Live)](https://lookerstudio.google.com/u/0/reporting/93baf21f-1db3-4d4c-956a-76f48c04a62a/page/DDEZF)
 
 ---
 
