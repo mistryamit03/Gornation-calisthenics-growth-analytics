@@ -24,7 +24,7 @@ Each KPI includes its **formula**, **purpose**, and **business interpretation** 
 | **Drop-Off % (Funnel)** | `((Stage_N - Stage_N+1) / Stage_N) * 100` | Identifies percentage loss between funnel stages (e.g., Clicks → Add to Cart). |
 
 📈 *Example Insight:*  
-TikTok campaigns produced the highest Profit ROAS (1.6), while Google Ads required optimization due to higher CAC and lower conversion rates.
+TikTok campaigns produced the highest Profit ROAS (1.6), while Google Ads required optimisation due to higher CAC and lower conversion rates.
 
 ---
 
@@ -70,7 +70,7 @@ GORNATION’s simulated RPR of **0.92** highlights strong loyalty among repeat b
 | **Fulfillment Efficiency Index (Simulated)** | `(On_Time_Delivery% - Return_Rate%)` | Composite metric evaluating overall fulfillment health. |
 
 🚀 *Example Insight:*  
-On-time delivery rate improved from **78% to 92%** after optimizing handling times, but returns remained higher (11%) in non-EU markets due to customs and packaging friction.
+On-time delivery rate improved from **78% to 92%** after optimising handling times, but returns remained higher (11%) in non-EU markets due to customs and packaging friction.
 
 ---
 
@@ -82,6 +82,3 @@ This documentation supports the dashboards featured in the `docs/` folder and th
 
 ## 👤 Author
 **Amit Mistry**  
-Data Analyst | E-Commerce, Marketing & Fulfillment Analytics  
-📍 Berlin, Germany | Open to relocating to Münster  
-📧 [your.email@example.com] | [LinkedIn](your-linkedin-url)
