@@ -74,7 +74,7 @@ To complement the technical work, I’ve created a **detailed business report** 
 This report translates the data into a clear business narrative — showing how analytics can directly enhance GORNATION’s marketing efficiency, operational planning, and fulfillment reliability.
 
 📄 **View the Business Report (PDF):**  
-👉 [GORNATION Business Report – Calisthenics Growth Analytics](./Gornation - Business Report.pdf)
+👉 [GORNATION Business Report – Calisthenics Growth Analytics](https://github.com/mistryamit03/Gornation-calisthenics-growth-analytics/blob/main/Gornation%20-%20Business%20Report.pdf)
 
 ---
 
